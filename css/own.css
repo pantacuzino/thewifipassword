@@ -1,3 +1,16 @@
 .title {
 	
 }
+
+.movie-character {
+	display: block;
+	padding: 10px 0px 10px 64px;
+}
+
+.stan {
+	background: url('../images/bran.png') no-repeat;
+}
+
+.bran {
+	background: url('../images/stan.png') no-repeat;
+}
